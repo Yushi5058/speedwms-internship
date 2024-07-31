@@ -1114,7 +1114,7 @@
             </thead>
 <tbody>
 <?php
-include "./database.php";
+include "./database_2.php";
 // fetch data
 while($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_NUMERIC)) {
     echo "<tr class='border-2 border-solid'>";
