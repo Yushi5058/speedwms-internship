@@ -32,6 +32,7 @@ The logo asset belongs to BKSM own software, [Speed WMS](https://www.bksystemes.
 [PHP Manual](https://www.php.net/)
 
 [Stack Overflow](https://stackoverflow.com/)
+
 Bro Code Youtube Channel
 
 and a bunch of other interesting things ...
