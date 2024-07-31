@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.polygon {
+  clip-path: polygon(10% 0%, 90% 0%, 100% 100%, 0% 100%);
+}
+
+.btn-block {
+  @apply flex items-center gap-1.5 hover:bg-[#E6E6E6] hover:border-2 hover:outline-none hover:border-solid;
+}
+
+.btn-sblock {
+  @apply flex flex-col ml-4 items-center hover:bg-[#C0C0C0] hover:border-2 hover:rounded-md;
+}
+
+.btn-not-allowed {
+  @apply flex flex-col ml-4 items-center text-[#C0C0C0];
+}
+
+.input-field {
+  @apply border-gray-400 border-2 border-solid focus:outline-none focus:border-gray-400 focus:bg-gray-200 hover:border-gray-700;
+}
+input:disabled {
+  @apply hover:border-transparent hover:bg-gray-800;
+}
