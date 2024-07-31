@@ -15,11 +15,11 @@ This is a clone of their web access module used for learning purposes. The datab
 
 # Notes
 
-I have learned many things during this internship period made possible the BKSM company. I practiced my web design skills by creating a website clone and learned a new language which is PHP and SQL who helped me deal with some server-side and database stuff which allowed me to dig my way more in backend, a field where I thrive in. I am grateful for this progression and look forward to my future where I would be able to bring more solutions to the world.
+I have learned many things during this internship period made possible by the [BKSM](https://www.bksystemes.ma/) company. I practiced my web design skills by creating a website clone and learned a new language which is PHP and MSSQL who helped me deal with some server-side and database stuff which allowed me to dig my way more in backend, a field where I thrive in. I am grateful for this progression and look forward to my future where I would be able to bring more solutions to the world.
 
 # Acknowledgments
 
-A special thanks to the BKSM team for the opportunity that has been given to me. The ICodeThis community server discord for helping me with a bunch of PHP code (SkinnyK, Chris, Andrei) and Wiru, the friend who motivated me going all in even when I didn't feel like it.
+A special thanks to the BKSM team for the opportunity that had been given to me. The [ICodeThis](https://icodethis.com/) community server discord for helping me with a bunch of PHP code (SkinnyK, Chris, Andrei) and Wiru, the friend who motivated me going all in even when I didn't feel like it.
 
 # Credits
 
