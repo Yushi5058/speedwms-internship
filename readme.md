@@ -2,9 +2,9 @@
 
 _Speed WMS_ is a cloud-based and on-premise warehouse management system designed to optimize logistics activities, increase productivity, and improve performance and agility in an organization's supply chain.
 This is a clone of their web access module used for learning purposes. The database used is confidential, and so the screenshots are only a proof of the PHP code working as intended.
-![](./assets/screenshot_1.png)
+![](src/assets/screenshot_1.png)
 
-![](./assets/screenshot_2.png)
+![](src/assets/screenshot_2.png)
 
 # Built With
 
